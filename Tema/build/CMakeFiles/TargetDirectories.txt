@@ -1,0 +1,3 @@
+/home/lica/Fack/3.PAOO/Lab/L3/Tema/build/CMakeFiles/catalog.dir
+/home/lica/Fack/3.PAOO/Lab/L3/Tema/build/CMakeFiles/edit_cache.dir
+/home/lica/Fack/3.PAOO/Lab/L3/Tema/build/CMakeFiles/rebuild_cache.dir

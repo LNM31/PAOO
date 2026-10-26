@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/catalog.dir/link.d CMakeFiles/catalog.dir/src/main.cpp.o CMakeFiles/catalog.dir/src/student.cpp.o CMakeFiles/catalog.dir/src/bad_examples.cpp.o -o catalog
